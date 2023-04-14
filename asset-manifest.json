@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Decentralised_Autonomous_ORganization/static/css/main.edcf157e.css",
+    "main.js": "/Decentralised_Autonomous_ORganization/static/js/main.dd50110a.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Decentralised_Autonomous_ORganization/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Decentralised_Autonomous_ORganization/index.html",
+    "main.edcf157e.css.map": "/Decentralised_Autonomous_ORganization/static/css/main.edcf157e.css.map",
+    "main.dd50110a.js.map": "/Decentralised_Autonomous_ORganization/static/js/main.dd50110a.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Decentralised_Autonomous_ORganization/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edcf157e.css",
+    "static/js/main.dd50110a.js"
+  ]
+}
